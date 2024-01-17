@@ -14,21 +14,9 @@
 "category": "App" 
 },
 {
-"title": "TeamViewer", 			
-"description": "Remote access", 
-"url": "https://magnit-box.tv/player/stuff/TeamViewer.apk", 
-"category": "Stuff" 
-},
-{
 "title": "TeamViewerQS", 			
 "description": "TeamViewer Quick Support", 
-"url": "https://magnit-box.tv/player/stuff/TeamViewerQS.apk",	
-"category": "Stuff" 
-},
-{
-"title": "TeamViewerHost", 			
-"description": "TeamViewer Host", 
-"url": "https://magnit-box.tv/player/stuff/TeamViewerHost.apk",	
+"url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=h9tm9jemdpr14qr71y6rcvdu0vrfoua3&file_id=f_1417217238297",	
 "category": "Stuff" 
 }
 ]
