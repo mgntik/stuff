@@ -1,1 +1,29 @@
-
+{
+"apps":
+[
+{
+"title": "Open Radio", 
+"description": "Radio channels over internet" , 
+"url": "https://magnit-box.tv/player/stuff/open_radio.apk" , 
+"category": "App" 
+},
+{
+"title": "TeamViewer", 			
+"description": "Remote access", 
+"url": "https://magnit-box.tv/player/stuff/TeamViewer.apk", 
+"category": "Stuff" 
+},
+{
+"title": "TeamViewerQS", 			
+"description": "TeamViewer Quick Support", 
+"url": "https://magnit-box.tv/player/stuff/TeamViewerQS.apk",	
+"category": "Stuff" 
+},
+{
+"title": "TeamViewerHost", 			
+"description": "TeamViewer Host", 
+"url": "https://magnit-box.tv/player/stuff/TeamViewerHost.apk",	
+"category": "Stuff" 
+}
+]
+}
