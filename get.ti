@@ -20,16 +20,16 @@
 "category": "App" 
 },
 {
-"title": "TeamViewerQS updated",
-"description": "ver. 15.49.379",
-"url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=vp6jlv3whglb1agrydobphpnsejjlsh8&file_id=f_1420262883936",
-"category": "Stuff"
-},
-{
 "title": "TeamViewerQS", 			
 "description": "TeamViewer Quick Support", 
 "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=h9tm9jemdpr14qr71y6rcvdu0vrfoua3&file_id=f_1417217238297",	
 "category": "Stuff" 
+},
+{
+"title": "TeamViewerQS updated",
+"description": "ver. 15.49.379",
+"url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=vp6jlv3whglb1agrydobphpnsejjlsh8&file_id=f_1420262883936",
+"category": "Stuff"
 },
 {
 "title": "TeamViewerAddon", 			
