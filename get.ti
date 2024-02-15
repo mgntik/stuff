@@ -2,6 +2,12 @@
 "apps":
 [
 {
+"title": "Youtube",
+"description": "ATV version", 
+"url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=r7bxfc0s5yabqeuy390fvb6p44m7sphb&file_id=f_1423092702246",
+"category": "App" 
+},
+{
 "title": "SmartTube",
 "description": "Smart client, no ads", 
 "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=zcl2hs8klfkpww7qgow5od5r6pz9edsv&file_id=f_1417199190781",
