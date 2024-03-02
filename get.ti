@@ -1,59 +1,75 @@
-{
-"apps":
+{  "apps": 
 [
+
 {
-"title": "Youtube",
-"description": "ATV version", 
-"url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=r7bxfc0s5yabqeuy390fvb6p44m7sphb&file_id=f_1423092702246",
+"title": "YouTube", 
+"description": "Youtube ATV", 
+"url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=i58x2vlb1sbds2thuemrk9niihnfr68i&file_id=f_1460045084752",
 "category": "App" 
 },
+
 {
-"title": "SmartTube",
+"title": "SmartTube", 
 "description": "Smart client, no ads", 
-"url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=zcl2hs8klfkpww7qgow5od5r6pz9edsv&file_id=f_1417199190781",
+"url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=idowdez46kpp2j9zni6i4vsgfs7qhdqk&file_id=f_1460043868691",
 "category": "App" 
 },
+
 {
 "title": "Open Radio", 
 "description": "Radio online" , 
-"url":"https://app.box.com/index.php?rm=box_download_shared_file&shared_name=sbfljl5te2s5szl7jz251x3xw7mboat6&file_id=f_1417229074902", 
+"url":"https://app.box.com/index.php?rm=box_download_shared_file&shared_name=eflqoyci19bxo4yjpv8c401kgp5hkxzw&file_id=f_1460045442388", 
 "category": "App" 
 },
+
+{
+"title": "MX Player",
+"description": "The player",
+"url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=5x7topb935ffnn6scq11wqfqp4ppurlq&file_id=f_1460042598968",
+"category": "Stuff"
+},
+
+{
+"title": "Magnit", 
+"description": "the latest", 
+"url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=9sbj2wfm2cwrcqpyyninqxpu925b2o2p&file_id=f_1460047298340",
+"category": "App" 
+},
+
 {
 "title": "Anydesk",                         
 "description": "Another remote access", 
-"url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=qk4vn4l1nwwd1y22v1vqbbpj759rwdog&file_id=f_1421982810217",        
+"url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=iatety22hqxvqcxk22t9x0m540f6s96x&file_id=f_1460045510361",        
 "category": "Stuff" 
 },
+
 {
 "title": "Anydesk addon",                         
 "description": "Generic addon", 
-"url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=brnuhuz3f0zm00mmatc2t7v84650edf3&file_id=f_1421971333890",        
+"url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=fxqkn3rpxkdbxpzj51e41unjxesqbh0u&file_id=f_1460048173412",        
 "category": "Stuff" 
 },
+
 {
-"title": "TeamViewerQS", 			
-"description": "TeamViewer Quick Support", 
-"url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=h9tm9jemdpr14qr71y6rcvdu0vrfoua3&file_id=f_1417217238297",	
-"category": "Stuff" 
-},
-{
-"title": "TeamViewerQS updated",
+"title": "TeamViewerQS",
 "description": "ver. 15.49.379",
 "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=vp6jlv3whglb1agrydobphpnsejjlsh8&file_id=f_1420262883936",
 "category": "Stuff"
 },
+
 {
-"title": "TeamViewerAddon", 			
+"title": "TeamViewerAddon",
 "description": "ver. 15.40.430", 
-"url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=x6vgyujdto1liyarfe36kfar8od5abvm&file_id=f_1420284746107",	
+"url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=x6vgyujdto1liyarfe36kfar8od5abvm&file_id=f_1420284746107",        
 "category": "Stuff" 
 },
+
 {
-"title": "TeamViewerAddon", 			
-"description": "ver. 15.8.5", 
-"url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=ybs1s7z1pioa3ooqc8n254mzbn1na502&file_id=f_1420257846352",	
+"title": "TeamViewerAddon",
+"description": "ver. 15.8.5",
+"url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=ybs1s7z1pioa3ooqc8n254mzbn1na502&file_id=f_1420257846352",        
 "category": "Stuff" 
 }
-]
+
+] 
 }
